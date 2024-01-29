@@ -2,8 +2,8 @@ version: "3"
 
 services:
   app:
-    image: cherry:latest
-    build: .
+    image: leoncz/cherry:latest
+    privileged: True
     environment:
       - DISPLAY=${DISPLAY}
     volumes:
