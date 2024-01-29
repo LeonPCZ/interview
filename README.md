@@ -12,7 +12,7 @@ Cherrytree is a hierarchical note-taking application featuring rich text and syn
 
 ## Getting Started
 
-Before opening your Cherrytree document ('<b>knowledge_base_devops.ctb</b>'), ensure you import the preferences file('cherrytree_preferences.cfg'):
+Before opening your Cherrytree document ('`knowledge_base_devops.ctb`'), ensure you import the preferences file('`cherrytree_preferences.cfg`'):
 1. Open Cherrytree.
 2. Go to `File` > `Preferences`.
 3. Select `Import Preferences`.
